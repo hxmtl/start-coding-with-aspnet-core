@@ -9,8 +9,8 @@ In this course, instructor and ASP.NET expert Jeremy McPeak will teach you every
 
 ## Source Files Description
 
-
 This repository contains the source code for the completed course project, with a directory for the state of the project as it existed after each lesson.
+
 ------
 
 These are source files for the Envato Tuts+ course: [Start Coding With ASP.NET Core][published url]
